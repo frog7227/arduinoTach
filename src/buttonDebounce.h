@@ -1,5 +1,6 @@
 // from https://github.com/e-tinkers/button
-
+// not available on PIO natively
+// button connects from I/O pin to ground
 #ifndef button_h
 #define button_h
 
